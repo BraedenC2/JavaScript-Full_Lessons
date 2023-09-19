@@ -1,0 +1,3 @@
+How to declare variables in JS.
+And how to print those variables to the screen of a html page.
+Let is used the most for variable declarations.

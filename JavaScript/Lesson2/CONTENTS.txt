@@ -1,0 +1,2 @@
+How to get user input from the HTML page and use
+the information we get to replace text. 
